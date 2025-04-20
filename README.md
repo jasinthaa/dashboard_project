@@ -120,6 +120,29 @@ Welcome to the Student Management System (SMS) – a simple, clean, and effectiv
 ![Screenshot 2025-04-16 174903](https://github.com/user-attachments/assets/1fbff63c-e352-408f-a9bc-bad254d0e893)
 
 
+## Install XAMPP or WAMPP.
+
+1. Open XAMPP Control panal and start [apache] and [mysql] .
+
+2. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)
+
+3. extract files in C:\xampp\htdocs.
+
+4. open link localhost/phpmyadmin
+
+5. click on new at side navbar.
+
+6. give a database name as (onlineshop) hit on create button.
+
+7. after creating database name click on import.
+
+8. browse the file in directory[online-shopping-system-with-advanced-admin-page/database/onlineshop.sql].
+
+9. after importing successfully.
+
+10. open any browser and type http://localhost/online-shopping-system-with-advanced-admin-page-master.
+
+
 
 
 
